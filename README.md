@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### My Contributions
 
-![Github Snake](github-contribution-grid-snake.svg)              
+![Github Snake](https://raw.githubusercontent.com/cpfy/cpfy/main/dist/github-contribution-grid-snake.svg)
