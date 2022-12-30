@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 
 
+![cpfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpfy)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpfy&layout=compact)
+
+
+
+
+
 ### My Contributions
 
 ![Github Snake](https://raw.githubusercontent.com/cpfy/cpfy/main/dist/github-contribution-grid-snake.svg)
