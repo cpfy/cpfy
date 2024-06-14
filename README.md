@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+![Statistics by github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cpfy&theme=github)
+
 
 ![cpfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpfy)
 
